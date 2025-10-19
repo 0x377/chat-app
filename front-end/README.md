@@ -100,19 +100,33 @@ This frontend provides a professional, modern chat interface with smooth animati
 ## Features Included:
 
 ✅ Modern React with Hooks & Context API
+
 ✅ Real-time messaging with Socket.IO
+
 ✅ JWT Authentication
+
 ✅ Room-based chat system
+
 ✅ Advanced animations with Framer Motion
+
 ✅ Responsive design with Bootstrap
+
 ✅ Dark theme with modern UI
+
 ✅ Typing indicators
+
 ✅ Message reactions & replies
+
 ✅ File attachment support
+
 ✅ Search functionality
+
 ✅ Online/offline status
+
 ✅ Read receipts
+
 ✅ Error handling & loading states
+
 ✅ Optimized performance
 
 # ENDING...

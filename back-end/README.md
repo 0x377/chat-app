@@ -122,20 +122,35 @@ This is a production-ready chat backend that can be extended with additional fea
 ## Features Included:
 
 ✅ Real-time messaging with Socket.IO
+
 ✅ JWT authentication
+
 ✅ User management (register, login, profile)
+
 ✅ Room/Channel system
+
 ✅ Message reactions
+
 ✅ Typing indicators
+
 ✅ Read receipts
+
 ✅ File upload support (extensible)
+
 ✅ Rate limiting
+
 ✅ Comprehensive error handling
+
 ✅ Logging system
+
 ✅ Input validation
+
 ✅ Security middleware
+
 ✅ Database connection management
+
 ✅ Pagination
+
 ✅ Test setup
 
 # ENDING...
