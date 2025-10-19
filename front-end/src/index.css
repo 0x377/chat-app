@@ -1,4 +1,3 @@
-/* src/styles/global.css */
 :root {
   --primary-color: #6366f1;
   --primary-hover: #4f46e5;
@@ -34,16 +33,6 @@ body {
   line-height: 1.6;
   overflow-x: hidden;
 }
-
-/* .home-page {
-  width: 100vw;
-  height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-} */
-
-
 
 /* Home Page Styles */
 .home-page {
@@ -559,17 +548,6 @@ html {
     transition: none !important;
   }
 }
-
-
-
-
-
-
-
-
-
-
-
 
 /* Layout */
 .layout {

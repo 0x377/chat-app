@@ -1,4 +1,3 @@
-// src/components/chat/Sidebar.jsx
 import React, { useEffect, useState } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import { useChat } from '../../contexts/ChatContext'

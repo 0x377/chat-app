@@ -1,4 +1,3 @@
-// src/components/chat/MessageList.jsx
 import React from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import { useAuth } from '../../contexts/AuthContext'

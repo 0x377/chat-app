@@ -1,4 +1,3 @@
-// src/routes/messages.js
 import express from 'express';
 import { 
   sendMessage, 

@@ -1,4 +1,3 @@
-// src/components/chat/ChatRoom.jsx
 import React, { useEffect, useRef, useState } from 'react'
 import { useParams } from 'react-router-dom'
 import { motion, AnimatePresence } from 'framer-motion'

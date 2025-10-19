@@ -1,4 +1,3 @@
-// src/socket/socketService.js
 import { Server } from 'socket.io';
 import jwt from 'jsonwebtoken';
 import env from '../config/env.js';

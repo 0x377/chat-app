@@ -1,4 +1,3 @@
-// src/components/chat/RoomList.jsx
 import React from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import { useChat } from '../../contexts/ChatContext'

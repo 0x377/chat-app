@@ -1,4 +1,3 @@
-// src/components/chat/MessageInput.jsx
 import React, { useState, useRef, useEffect } from 'react'
 import { motion } from 'framer-motion'
 import { useChat } from '../../contexts/ChatContext'

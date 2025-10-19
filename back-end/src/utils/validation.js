@@ -1,4 +1,3 @@
-// src/utils/validation.js
 import Joi from 'joi';
 
 export const registerValidation = Joi.object({

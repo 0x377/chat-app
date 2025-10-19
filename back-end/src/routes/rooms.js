@@ -1,4 +1,3 @@
-// src/routes/rooms.js
 import express from 'express';
 import Room from '../models/Room.js';
 import { authenticate } from '../middleware/auth.js';

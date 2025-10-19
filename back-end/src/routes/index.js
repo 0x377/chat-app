@@ -1,4 +1,3 @@
-// src/routes/index.js
 import express from 'express';
 import authRoutes from './auth.js';
 import messageRoutes from './messages.js';

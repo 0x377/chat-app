@@ -1,4 +1,3 @@
-// src/controllers/messageController.js
 import Message from '../models/Message.js';
 import Room from '../models/Room.js';
 import { messageValidation } from '../utils/validation.js';

@@ -1,4 +1,3 @@
-// src/utils/logger.js
 import winston from 'winston';
 import env from '../config/env.js';
 

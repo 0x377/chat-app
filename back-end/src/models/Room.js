@@ -1,4 +1,3 @@
-// src/models/Room.js
 import mongoose from 'mongoose';
 
 const roomSchema = new mongoose.Schema({

@@ -1,4 +1,3 @@
-// src/components/chat/Chat.jsx
 import React, { useEffect, useRef } from 'react'
 import { Routes, Route, Navigate } from 'react-router-dom'
 import { motion } from 'framer-motion'

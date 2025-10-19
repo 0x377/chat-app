@@ -1,4 +1,3 @@
-// tests/auth.test.js
 import request from 'supertest';
 import Application from '../src/app.js';
 import database from '../src/config/database.js';
